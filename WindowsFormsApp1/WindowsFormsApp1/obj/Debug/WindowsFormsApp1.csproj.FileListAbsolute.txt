@@ -1,0 +1,16 @@
+D:\FALL\ММС\Pract\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\FALL\ММС\Pract\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\FALL\ММС\Pract\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenTK.dll
+D:\FALL\ММС\Pract\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.dll
+D:\FALL\ММС\Pract\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenTK.pdb
+D:\FALL\ММС\Pract\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenTK.xml
+D:\FALL\ММС\Pract\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.pdb
+D:\FALL\ММС\Pract\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.xml
+D:\FALL\ММС\Pract\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\FALL\ММС\Pract\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\FALL\ММС\Pract\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\FALL\ММС\Pract\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\FALL\ММС\Pract\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\FALL\ММС\Pract\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\FALL\ММС\Pract\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\FALL\ММС\Pract\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
